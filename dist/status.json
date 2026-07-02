@@ -1,0 +1,20 @@
+{
+    "status": "Completed",
+    "progress": 100,
+    "log": [
+        "15:06:44  Program Started",
+        "15:06:44  Scanning audio files...",
+        "15:06:44  Running Whisper...",
+        "15:07:42  Running Whisper...",
+        "15:08:37  Running Whisper...",
+        "15:09:36  Extracting timestamps...",
+        "15:09:36  Extracting timestamps...",
+        "15:09:36  Extracting timestamps...",
+        "15:09:36  Extracting timestamps...",
+        "15:09:36  Extracting timestamps...",
+        "15:09:36  Splitting audio...",
+        "15:10:46  Shifting all the slides to audio folder...",
+        "15:10:46  Launching Blender...",
+        "15:10:48  Completed successfully"
+    ]
+}
