@@ -1,0 +1,37 @@
+# ==========================================
+# 1. Project Build & Output Folders (Crucial)
+# ==========================================
+build/
+dist/
+out/
+
+# ==========================================
+# 2. Python Caches & Virtual Environments
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# ==========================================
+# 3. Blender Backup Files
+# ==========================================
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+
+# ==========================================
+# 4. PyInstaller Configuration
+# ==========================================
+# Remove the '#' from the line below if you want Git to ignore your .spec file
+# *.spec
+
+# ==========================================
+# 5. Editor & OS System Files
+# ==========================================
+.vscode/
+.DS_Store
+Thumbs.db
